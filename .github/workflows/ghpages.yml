@@ -1,0 +1,7 @@
+name: jsnkjfs
+on: [push]
+jobs:
+  mskjsnf:
+  runs on: ubuntu-latest
+  steps:
+    - run: echo hello word
